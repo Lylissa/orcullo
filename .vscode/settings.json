@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/3321286f-4b84-451c-9d0f-72f35fbf3e18/resourceGroups/G1_Group9/providers/Microsoft.Web/sites/Group9-ALOConferenceRoomReservationSystem",
+    "appService.deploySubpath": "."
+}
